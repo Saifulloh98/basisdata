@@ -1,4 +1,7 @@
 # basisdata
+Nama  : Saifulloh Rahman
+Nim   : 2108561028
+Kelas : C
 skema:
 1. siswa(siswa-nim, siswa-nama, siswa-tanggal-lahir, siswa-alamat)
 2. pelajaran(pelajaran-kode, pelajaran-nama, guru-nig)
